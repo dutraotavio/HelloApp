@@ -36,7 +36,7 @@ A basic Android app written in Kotlin, featuring a simple interface with an Edit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/dutraotavio/HelloApp.git
 
 ### License
 
